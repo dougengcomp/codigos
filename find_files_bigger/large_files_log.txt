@@ -1,0 +1,31 @@
+File: C:\hiberfil.sys, Size: 3350089728 bytes
+File: C:\pagefile.sys, Size: 19327352832 bytes
+File: C:\$WinREAgent\Backup\winre.wim, Size: 953308406 bytes
+File: C:\$WinREAgent\Scratch\update.wim, Size: 1006554782 bytes
+File: C:\Program Files\Docker\Docker\resources\services.raw, Size: 630978560 bytes
+File: C:\Program Files\Docker\Docker\resources\wsl\docker-wsl-cli.iso, Size: 480612352 bytes
+File: C:\Program Files\Google\Chrome\Application\124.0.6367.63\chrome.dll, Size: 225780000 bytes
+File: C:\Program Files\Google\Chrome\Application\124.0.6367.63\Installer\chrome.7z, Size: 363476990 bytes
+File: C:\Program Files\Insta360 Studio 2023\opencv_world410.dll, Size: 922345984 bytes
+File: C:\Program Files (x86)\Microsoft\Edge\Application\124.0.2478.67\msedge.dll, Size: 265893928 bytes
+File: C:\Program Files (x86)\Microsoft\EdgeCore\124.0.2478.67\msedge.dll, Size: 265893928 bytes
+File: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\124.0.2478.67\msedge.dll, Size: 265893928 bytes
+File: C:\Program Files (x86)\Steam\steamapps\common\AoE2DE\wwise\Base.1.pck, Size: 739578479 bytes
+File: C:\Program Files (x86)\Steam\steamapps\common\AoE2DE\wwise\Pompeii.pck, Size: 237300146 bytes
+File: C:\Program Files (x86)\Steam\steamapps\common\AoE2DE\wwise\en\Base.1.pck, Size: 210545358 bytes
+File: C:\Users\rijul\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\messages.db, Size: 422473728 bytes
+File: C:\Users\rijul\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2023_48\DOC-20231202-WA0001.mov, Size: 684586017 bytes
+File: C:\Users\rijul\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_15\DOC-20240419-WA0001.mov, Size: 1017963810 bytes
+File: C:\Users\rijul\AppData\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalState\Spotify\Storage\05\053019223dfbd76ad7f92bd8882736a360475ec5.file, Size: 212762224 bytes
+File: C:\Users\rijul\AppData\Local\VMware\vmware-download-1CA44\cdstmp_player-windows_16.2.3_19376536\VMware-player-16.2.3-19376536.exe, Size: 232511072 bytes
+File: C:\Users\rijul\AppData\Local\WhatsApp\app-2.2230.15\resources\app.asar, Size: 237146584 bytes
+File: C:\Users\rijul\Desktop\almoço novo\alimentacao_novo.7z, Size: 280819861 bytes
+File: C:\Users\rijul\Documents\Virtual Machines\Ubuntu\Ubuntu.vmdk, Size: 9705422848 bytes
+File: C:\Users\rijul\Videos\Captures\kombucha v1 - Google Chrome 2022-04-06 14-32-49.mp4, Size: 236687609 bytes
+File: C:\Users\rijul\Videos\Captures\kombucha v1 - HomeByMe - Google Chrome 2022-04-23 20-39-06.mp4, Size: 221527376 bytes
+File: C:\Windows\MEMORY.DMP, Size: 1495120313 bytes
+File: C:\Windows\Panther\MigLog.xml, Size: 291666105 bytes
+File: C:\Windows\Panther\setupact.log, Size: 339955725 bytes
+File: C:\Windows\Panther\WinSetupMon.log, Size: 2859654000 bytes
+File: C:\Windows\System32\Microsoft-Edge-WebView\msedge.dll, Size: 263230912 bytes
+File: C:\Windows\WinSxS\amd64_microsoft-edge-webview_31bf3856ad364e35_10.0.22621.3447_none_72d73cc006516779\msedge.dll, Size: 263230912 bytes

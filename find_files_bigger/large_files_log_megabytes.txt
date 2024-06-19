@@ -1,0 +1,31 @@
+File: C:\hiberfil.sys, Size: 3194.89 MB
+File: C:\pagefile.sys, Size: 18432.00 MB
+File: C:\$WinREAgent\Backup\winre.wim, Size: 909.15 MB
+File: C:\$WinREAgent\Scratch\update.wim, Size: 959.93 MB
+File: C:\Program Files\Docker\Docker\resources\services.raw, Size: 601.75 MB
+File: C:\Program Files\Docker\Docker\resources\wsl\docker-wsl-cli.iso, Size: 458.35 MB
+File: C:\Program Files\Google\Chrome\Application\124.0.6367.63\chrome.dll, Size: 215.32 MB
+File: C:\Program Files\Google\Chrome\Application\124.0.6367.63\Installer\chrome.7z, Size: 346.64 MB
+File: C:\Program Files\Insta360 Studio 2023\opencv_world410.dll, Size: 879.62 MB
+File: C:\Program Files (x86)\Microsoft\Edge\Application\124.0.2478.67\msedge.dll, Size: 253.58 MB
+File: C:\Program Files (x86)\Microsoft\EdgeCore\124.0.2478.67\msedge.dll, Size: 253.58 MB
+File: C:\Program Files (x86)\Microsoft\EdgeWebView\Application\124.0.2478.67\msedge.dll, Size: 253.58 MB
+File: C:\Program Files (x86)\Steam\steamapps\common\AoE2DE\wwise\Base.1.pck, Size: 705.32 MB
+File: C:\Program Files (x86)\Steam\steamapps\common\AoE2DE\wwise\Pompeii.pck, Size: 226.31 MB
+File: C:\Program Files (x86)\Steam\steamapps\common\AoE2DE\wwise\en\Base.1.pck, Size: 200.79 MB
+File: C:\Users\rijul\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\messages.db, Size: 402.90 MB
+File: C:\Users\rijul\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2023_48\DOC-20231202-WA0001.mov, Size: 652.87 MB
+File: C:\Users\rijul\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\shared\transfers\2024_15\DOC-20240419-WA0001.mov, Size: 970.81 MB
+File: C:\Users\rijul\AppData\Local\Packages\SpotifyAB.SpotifyMusic_zpdnekdrzrea0\LocalState\Spotify\Storage\05\053019223dfbd76ad7f92bd8882736a360475ec5.file, Size: 202.91 MB
+File: C:\Users\rijul\AppData\Local\VMware\vmware-download-1CA44\cdstmp_player-windows_16.2.3_19376536\VMware-player-16.2.3-19376536.exe, Size: 221.74 MB
+File: C:\Users\rijul\AppData\Local\WhatsApp\app-2.2230.15\resources\app.asar, Size: 226.16 MB
+File: C:\Users\rijul\Desktop\almoço novo\alimentacao_novo.7z, Size: 267.81 MB
+File: C:\Users\rijul\Documents\Virtual Machines\Ubuntu\Ubuntu.vmdk, Size: 9255.81 MB
+File: C:\Users\rijul\Videos\Captures\kombucha v1 - Google Chrome 2022-04-06 14-32-49.mp4, Size: 225.72 MB
+File: C:\Users\rijul\Videos\Captures\kombucha v1 - HomeByMe - Google Chrome 2022-04-23 20-39-06.mp4, Size: 211.26 MB
+File: C:\Windows\MEMORY.DMP, Size: 1425.86 MB
+File: C:\Windows\Panther\MigLog.xml, Size: 278.15 MB
+File: C:\Windows\Panther\setupact.log, Size: 324.21 MB
+File: C:\Windows\Panther\WinSetupMon.log, Size: 2727.18 MB
+File: C:\Windows\System32\Microsoft-Edge-WebView\msedge.dll, Size: 251.04 MB
+File: C:\Windows\WinSxS\amd64_microsoft-edge-webview_31bf3856ad364e35_10.0.22621.3447_none_72d73cc006516779\msedge.dll, Size: 251.04 MB
