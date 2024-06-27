@@ -17,10 +17,10 @@ def send_udp_packets(destination, packet_size=1472, interval=0):
 
 # Main function
 if __name__ == "__main__":
-    destination = "www.yahoo.com"
+    destination = "8.8.8.8"
     packet_size = 1472  # Adjust packet_size as needed
     interval = 0  # Adjust interval as needed
-    num_threads = 5  # Adjust number of threads as needed
+    num_threads = 16  # Adjust number of threads as needed
 
     # Create and start separate threads to send UDP packets concurrently
     threads = []
