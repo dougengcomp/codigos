@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Link: https://www.wgtn.ac.nz/lals/resources/academicwordlist/sublist/sublist10
+DURATION:PT10M
+DTSTART:20241029T134500Z
+SUMMARY:Study AWL Sublist 10
+UID:07163ce9-6f80-4f93-b0be-4a3db44fd346@0716.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Link: https://www.wgtn.ac.nz/lals/resources/academicwordlist/sublist/sublist03
+DURATION:PT10M
+DTSTART:20241022T134500Z
+SUMMARY:Study AWL Sublist 3
+UID:c3e39423-7ba9-46e1-b618-bbc64a880cb6@c3e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Link: https://www.wgtn.ac.nz/lals/resources/academicwordlist/sublist/sublist08
+DURATION:PT10M
+DTSTART:20241027T134500Z
+SUMMARY:Study AWL Sublist 8
+UID:a5338453-e665-4cd1-9698-cad3f91a7807@a533.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Link: https://www.wgtn.ac.nz/lals/resources/academicwordlist/sublist/sublist05
+DURATION:PT10M
+DTSTART:20241024T134500Z
+SUMMARY:Study AWL Sublist 5
+UID:a7027c32-ed7a-4213-b39a-77fce86f82e5@a702.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Link: https://www.wgtn.ac.nz/lals/resources/academicwordlist/sublist/sublist09
+DURATION:PT10M
+DTSTART:20241028T134500Z
+SUMMARY:Study AWL Sublist 9
+UID:a104d969-3e98-4883-8445-a5cd5aa2037d@a104.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Link: https://www.wgtn.ac.nz/lals/resources/academicwordlist/sublist/sublist04
+DURATION:PT10M
+DTSTART:20241023T134500Z
+SUMMARY:Study AWL Sublist 4
+UID:35513b0b-eac6-44cc-9304-739f7fd426f0@3551.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Link: https://www.wgtn.ac.nz/lals/resources/academicwordlist/sublist/sublist06
+DURATION:PT10M
+DTSTART:20241025T134500Z
+SUMMARY:Study AWL Sublist 6
+UID:22189841-7e5b-4aae-b8a2-3a94a059795b@2218.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Link: https://www.wgtn.ac.nz/lals/resources/academicwordlist/sublist/sublist02
+DURATION:PT10M
+DTSTART:20241021T134500Z
+SUMMARY:Study AWL Sublist 2
+UID:6ebe3102-a6a6-4e1f-a8e8-9221c7caa10b@6ebe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Link: https://www.wgtn.ac.nz/lals/resources/academicwordlist/sublist/sublist07
+DURATION:PT10M
+DTSTART:20241026T134500Z
+SUMMARY:Study AWL Sublist 7
+UID:00b3858a-2d23-4dbb-bfa8-1f275d22b82a@00b3.org
+END:VEVENT
+END:VCALENDAR
