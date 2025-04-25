@@ -210,3 +210,4 @@ bin/
 .env.local
 .env.*.local
 .envrc
+/mp3totext
